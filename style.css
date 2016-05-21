@@ -1,0 +1,85 @@
+/*Main Style**************
+*************************/
+body {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: mintcream;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+h1 {
+    color:blue;
+}
+
+
+.nav_bar {
+    text-align: left;
+    color: green;
+
+}
+#main-footer {
+    margin-top: 70px;
+}
+ .space {
+    padding: 70px;
+    padding: 170px;
+ }
+
+ .yellow {
+    background-color: yellow;
+
+ }
+
+  .blanchedalmond {
+     background-color: #ffe4c4;
+    }
+
+  .darkseagreen	{
+    background-color: #8fbc8f;
+  }
+
+  .orchid {
+    background-color: #da70d6;
+  }
+
+  .slategray:{
+    background-color: #708090;
+  }
+  .yellowgreen {
+    background-color: #9acd32;
+
+  }
+  .thistle {
+    background-color: #d8bfd8;
+
+  }
+  .tomato{
+    background-color: #ff6347;
+  }
+  .tan{
+    background-color: #d2b48c;
+  }
+.circle {
+    border: 6px solid black;
+    border-radius: 999px;
+    margin: 30px;
+    padding: 60px;
+}
+
+/**/
+
+
+.wrap {
+    min-height: calc(100vh - 89px);
+}
+
+
+footer {
+    padding-left: 20px;
+    padding-right: 20px;
+}
