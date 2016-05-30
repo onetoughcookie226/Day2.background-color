@@ -1,3 +1,3 @@
 ## GitHub Basics
 
-This repo is for onclick bottom.  
+This repo is for onclick bottom.
