@@ -85,15 +85,12 @@ footer {
 
   /*==============================*/
 
-
-
-
 /* Media Queries*/
 
 @media (min-width: 500px) {
-    .nav_bar {
-        text-align: left;
-    }
+    /*.nav_bar {*/
+        /*text-align: left;*/
+    /*}*/
     .circle {
         padding: 44px;
         margin: -113px;
