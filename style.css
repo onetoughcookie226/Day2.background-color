@@ -17,8 +17,8 @@ body {
 }
 
 .space {
- padding: 70px;
- padding: 130px;
+    padding: 70px;
+    padding: 130px;
 }
 
 .circle {
@@ -40,8 +40,8 @@ footer {
     padding-right: 20px;
 }
 
-/* Color declaration
-==========================*/
+ /* Color declaration
+ ==========================*/
 
 .yellow {
     background-color: yellow;
