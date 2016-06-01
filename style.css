@@ -1,5 +1,5 @@
-/*Main Style**************
-*************************/
+/* Main Style
+=========================*/
 body {
     text-align: center;
     margin-left: auto;
@@ -7,71 +7,29 @@ body {
     background-color: mintcream;
 }
 
-a {
+.nav_bar a {
+    color: green;
     text-decoration: none;
-    color: green;
 }
 
-h1 {
-    color:blue;
-}
-
-
-.nav_bar {
-    text-align: left;
-    color: green;
-
-}
-#main-footer {
+#main_footer {
     margin-top: 70px;
 }
- .space {
+
+.space {
     padding: 70px;
-    padding: 170px;
- }
+    padding: 130px;
+}
 
- .yellow {
-    background-color: yellow;
-
- }
-
-  .blanchedalmond {
-     background-color: #ffe4c4;
-    }
-
-  .darkseagreen	{
-    background-color: #8fbc8f;
-  }
-
-  .orchid {
-    background-color: #da70d6;
-  }
-
-  .slategray:{
-    background-color: #708090;
-  }
-  .yellowgreen {
-    background-color: #9acd32;
-
-  }
-  .thistle {
-    background-color: #d8bfd8;
-
-  }
-  .tomato{
-    background-color: #ff6347;
-  }
-  .tan{
-    background-color: #d2b48c;
-  }
 .circle {
     border: 6px solid black;
     border-radius: 999px;
-    margin: 30px;
-    padding: 60px;
-}
+    /*margin: 30px;*/
+    /*padding: 60px;*/
 
-/**/
+    padding: 18px;
+    margin: -58px;
+}
 
 
 .wrap {
@@ -83,3 +41,92 @@ footer {
     padding-left: 20px;
     padding-right: 20px;
 }
+
+
+/* Color declaration
+==========================*/
+
+.yellow {
+    background-color: yellow;
+
+}
+
+.blanchedalmond {
+    background-color: #ffe4c4;
+}
+
+.darkseagreen	{
+    background-color: #8fbc8f;
+}
+
+.orchid {
+    background-color: #da70d6;
+}
+
+.slategray {
+    background-color: #708090;
+}
+
+.yellowgreen {
+    background-color: #9acd32;
+}
+
+.thistle {
+    background-color: #d8bfd8;
+}
+
+.tomato{
+    background-color: #ff6347;
+}
+
+.tan{
+    background-color: #d2b48c;
+}
+
+/* Media Queries*/
+/*==============================*/
+
+@media (min-width: 500px) {
+    .nav_bar {
+        text-align: left;
+    }
+    .circle {
+        padding: 44px;
+        margin: -113px;
+    }
+}
+
+/*@media (max-width: 920px)  {*/
+/*.circle {*/
+/*padding: 50px;*/
+/*}*/
+/*}*/
+
+/*@media (max-width: 861px){*/
+/*.circle {*/
+/*padding: 20px;*/
+/*margin: 18px;*/
+
+/*}*/
+
+
+/*}*/
+
+/*@media (max-width: 960px) {*/
+/*body {*/
+/*background: royalblue;*/
+
+/*}*/
+/*}*/
+
+/*@media (max-width: 400px) {*/
+/*body {*/
+/*background: blanchedalmond;*/
+
+/*}*/
+/*}*/
+
+/*@media (min-width: 481px) and (max-width: 700px) {*/
+
+
+/*}*/
