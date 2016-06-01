@@ -17,8 +17,8 @@ body {
 }
 
 .space {
-    padding: 70px;
-    padding: 130px;
+ padding: 70px;
+ padding: 130px;
 }
 
 .circle {
@@ -31,24 +31,20 @@ body {
     margin: -58px;
 }
 
-
 .wrap {
     min-height: calc(100vh - 89px);
 }
-
 
 footer {
     padding-left: 20px;
     padding-right: 20px;
 }
 
-
 /* Color declaration
 ==========================*/
 
 .yellow {
     background-color: yellow;
-
 }
 
 .blanchedalmond {
@@ -83,8 +79,8 @@ footer {
     background-color: #d2b48c;
 }
 
-/* Media Queries*/
-/*==============================*/
+/* Media Queries
+==============================*/
 
 @media (min-width: 500px) {
     .nav_bar {
@@ -95,38 +91,3 @@ footer {
         margin: -113px;
     }
 }
-
-/*@media (max-width: 920px)  {*/
-/*.circle {*/
-/*padding: 50px;*/
-/*}*/
-/*}*/
-
-/*@media (max-width: 861px){*/
-/*.circle {*/
-/*padding: 20px;*/
-/*margin: 18px;*/
-
-/*}*/
-
-
-/*}*/
-
-/*@media (max-width: 960px) {*/
-/*body {*/
-/*background: royalblue;*/
-
-/*}*/
-/*}*/
-
-/*@media (max-width: 400px) {*/
-/*body {*/
-/*background: blanchedalmond;*/
-
-/*}*/
-/*}*/
-
-/*@media (min-width: 481px) and (max-width: 700px) {*/
-
-
-/*}*/
